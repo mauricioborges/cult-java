@@ -7,7 +7,7 @@ import java.util.List;
 
 public class TextStyleLogic {
     public List<String> styles = Arrays.asList("estilo 1", "estilo 2");
-
+    
     //Escolhe um estilo
     public void chooseStyle(String estilo){
         String expectedStyle = "estilo 2";
